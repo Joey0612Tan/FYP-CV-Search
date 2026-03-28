@@ -1,0 +1,9 @@
+flask
+flask-cors
+numpy
+pillow
+torch
+torchvision
+scikit-learn
+requests
+google-generativeai

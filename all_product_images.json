@@ -1,0 +1,107 @@
+{
+"SELECT product_id, image_main AS image_url FROM products\r\nUNION ALL\r\nSELECT product_id, image_path FROM product_images": [
+	{
+		"product_id" : 1,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/da\/b2\/a6\/dab2a6d254bdbf0c3d31c62f6ae841b3.jpg"
+	},
+	{
+		"product_id" : 2,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/7d\/4b\/aa\/7d4baaa0167b37a894ba21e4a8762f11.jpg"
+	},
+	{
+		"product_id" : 3,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/4c\/cd\/90\/4ccd900a00c7fd1f65ff51cf515d2174.jpg"
+	},
+	{
+		"product_id" : 4,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/21\/37\/72\/213772300c2f360cfb789378307126c3.jpg"
+	},
+	{
+		"product_id" : 5,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/8e\/11\/ca\/8e11caeb068de7884c48c5f6b926fe09.jpg"
+	},
+	{
+		"product_id" : 6,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/a8\/d0\/0d\/a8d00d29b7d903240986f648d1e9b124.jpg"
+	},
+	{
+		"product_id" : 7,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/9a\/36\/59\/9a36590aa0e38ece6cac7a46bc39c090.jpg"
+	},
+	{
+		"product_id" : 8,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/96\/82\/31\/9682310d34acb0c66b30760e00f261f0.jpg"
+	},
+	{
+		"product_id" : 9,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/44\/ac\/9f\/44ac9fe25ee9516579337a169bfbd67e.jpg"
+	},
+	{
+		"product_id" : 10,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/ff\/47\/bf\/ff47bfa34f77f73aabddae2d85e747a3.jpg"
+	},
+	{
+		"product_id" : 11,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/e7\/46\/a2\/e746a2732d4e7ada04ea78ad7cd455b0.jpg"
+	},
+	{
+		"product_id" : 12,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/1a\/f1\/d1\/1af1d10e6ce96062a3123511683b4d04.jpg"
+	},
+	{
+		"product_id" : 13,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/67\/7b\/50\/677b50ae179bc73c9f00d86c5efd1dc0.jpg"
+	},
+	{
+		"product_id" : 14,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/ca\/c9\/da\/cac9da346eeadb1f3e2d995b86ac9457.jpg"
+	},
+	{
+		"product_id" : 15,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/50\/ca\/95\/50ca9580c291ab416fbc8feaea8af1b0.jpg"
+	},
+	{
+		"product_id" : 1,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/d3\/c2\/20\/d3c2206b2e679c5985c2a7817a6b01b5.jpg"
+	},
+	{
+		"product_id" : 1,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/4c\/cd\/90\/4ccd900a00c7fd1f65ff51cf515d2174.jpg"
+	},
+	{
+		"product_id" : 1,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/e7\/e6\/45\/e7e645a955bb0ba8aba26408f0e80cc3.jpg"
+	},
+	{
+		"product_id" : 2,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/d3\/c2\/20\/d3c2206b2e679c5985c2a7817a6b01b5.jpg"
+	},
+	{
+		"product_id" : 2,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/4c\/cd\/90\/4ccd900a00c7fd1f65ff51cf515d2174.jpg"
+	},
+	{
+		"product_id" : 2,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/e7\/e6\/45\/e7e645a955bb0ba8aba26408f0e80cc3.jpg"
+	},
+	{
+		"product_id" : 3,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/4c\/cd\/90\/4ccd900a00c7fd1f65ff51cf515d2174.jpg"
+	},
+	{
+		"product_id" : 3,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/e7\/e6\/45\/e7e645a955bb0ba8aba26408f0e80cc3.jpg"
+	},
+	{
+		"product_id" : 4,
+		"image_url" : "https:\/\/i.pinimg.com\/736x\/8e\/11\/ca\/8e11caeb068de7884c48c5f6b926fe09.jpg"
+	},
+	{
+		"product_id" : 4,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/04\/83\/c9\/0483c94c80aab341296da2c436fc3e7d.jpg"
+	},
+	{
+		"product_id" : 5,
+		"image_url" : "https:\/\/i.pinimg.com\/1200x\/04\/83\/c9\/0483c94c80aab341296da2c436fc3e7d.jpg"
+	}
+]}
