@@ -15,7 +15,6 @@ app = Flask(__name__)
 CORS(app)
 
 print("Loading ResNet18 model (lighter)...")
-# 改用 ResNet18
 model = models.resnet18(weights=models.ResNet18_Weights.IMAGENET1K_V1)
 model = torch.nn.Sequential(*list(model.children())[:-1])
 model.eval()
@@ -80,7 +79,7 @@ for pid, url in product_dict.items():
     if features is not None:
         product_features.append(features)
     else:
-        product_features.append(np.zeros(512))  # ResNet18 输出是 512 维
+        product_features.append(np.zeros(512)) 
 
 print(f"Successfully processed {len(product_features)} products")
 
